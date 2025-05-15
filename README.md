@@ -1,5 +1,7 @@
 # AML & Fraud Risk Portfolio – Amanda Bucci
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-bucci/AML---Fraud---AI---Portfolio/blob/main/1_fiat_analysis/exploration_amanda.ipynb)
+
 Este repositório apresenta projetos práticos que conectam minha experiência em compliance, AML e fraude com ferramentas técnicas como Python, machine learning explicável, visualização de dados e análise de risco Web3.
 
 ## Estrutura
